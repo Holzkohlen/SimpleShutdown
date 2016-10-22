@@ -3,7 +3,7 @@ Simple Windows Shutdown Utility
 Lukas Hempel - hempel.lukas@gmail.com
 
 
-This project is about creating a simple/reboot shutdown GUI tool for windows (mayhaps Linux in the future).
+This project is about creating a simple shutdown/reboot GUI tool for windows (mayhaps Linux in the future).
 At the moment it is limited to german language until I figure out ressources in Visual Studio.
 Additionally I simply want to know how git & github are working, simply put it's a learning experience for myself.
 
